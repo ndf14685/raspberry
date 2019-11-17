@@ -1,0 +1,8 @@
+sergio.pernas@gmail.com
+
+gitlab.com/sergio.pernas
+
+
+Permisos
+ U    |    G   |  O 
+r w _ | r _  _ | r _ _ 
