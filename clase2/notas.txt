@@ -1,0 +1,24 @@
+Kit todo terreno: 
+
+1 _ Cable de red UTP 2.5
+
+2_ Adaptador HDMI - VGA
+
+3_ Cable VGA
+
+4_ Raspberry con raspbian instalado
+
+5_Cargador : 
+	Cable micro usb
+	Fuente adaptador
+
+
+6_ memoria 16Gb Clase10
+
+
+Cuando creamos nuestro programa: 
+Primer linea: #!/usr/bin/python
+
+
+
+https://gitlab.com/educacionit1
